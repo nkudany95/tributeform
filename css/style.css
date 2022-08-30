@@ -50,6 +50,7 @@ a:visited {
 @media (max-width: 460px) {
   #main {
     margin: 0;
+    padding: 0;
   }
 }
 
